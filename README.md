@@ -1,2 +1,3 @@
 Keterangan singkat coba repoku
-Sekian.
+Sekian Baru.
+Jadi.
